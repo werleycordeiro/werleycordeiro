@@ -1,7 +1,5 @@
-<p align="center">
-<img src="https://github.com/werleycordeiro/werleycordeiro/blob/master/card.jpg"/>
-</p>
 
+[![Hello 👋](https://github.com/werleycordeiro/werleycordeiro/blob/master/card.jpg)][4]
 ### Hi there, 👋
 
 I'm a M.Sc. student in Economics at the Federal University of Santa Catarina (UFSC), Brazil. I've been studying the dynamic Nelson-Siegel model since my research focus is on modeling of the yield curve.
@@ -16,3 +14,4 @@ You can see what I am currently up to on [http://lattes.cnpq.br/5635422378279874
 [1]: http://lattes.cnpq.br/5635422378279874
 [2]: https://werleycordeiro.github.io
 [3]: https://linkedin.com/in/werley-cordeiro
+[4]: https://github.com/werleycordeiro
