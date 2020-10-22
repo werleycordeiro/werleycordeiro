@@ -1,3 +1,7 @@
+<p align="center">
+<img src="https://github.com/werleycordeiro/werleycordeiro/blob/master/card.jpg"/>
+</p>
+
 ### Hi there, 👋
 
 I'm a M.Sc. student in Economics at the Federal University of Santa Catarina (UFSC), Brazil. I've been studying the dynamic Nelson-Siegel model since my research focus is on modeling of the yield curve.
