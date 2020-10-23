@@ -4,7 +4,7 @@
 
 I'm a M.Sc. student in Economics at the Federal University of Santa Catarina (UFSC), Brazil. I've been studying the dynamic Nelson-Siegel model since my research focus is on modeling of the yield curve.
 
-You can see what I am currently up to on (only in portuguese) [http://lattes.cnpq.br/5635422378279874][1].
+You can see my cv (only in portuguese) on [http://lattes.cnpq.br/5635422378279874][1].
 
 ## 📬 Get in touch
 
