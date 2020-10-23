@@ -1,5 +1,5 @@
 
-[![Hello 👋](https://raw.githubusercontent.com/werleycordeiro/werleycordeiro/main/car.jpg)][4]
+[![Hello 👋](https://raw.githubusercontent.com/werleycordeiro/werleycordeiro/main/card.jpg)][4]
 ### Hi there, 👋
 
 I'm a M.Sc. student in Economics at the Federal University of Santa Catarina (UFSC), Brazil. I've been studying the dynamic Nelson-Siegel model since my research focus is on modeling of the yield curve.
