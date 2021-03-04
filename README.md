@@ -4,7 +4,7 @@
 
 Welcome to my GitHub! 
 
-I hold a master’s degree from the Graduate Program in Economics (PPGEco-UFSC), with a scholarship from the Coordination for the Improvement of Higher Education Personnel (CAPES) in Brazil.
+I hold a master’s degree from the Graduate Program in Economics (PPGEco-UFSC) - with a scholarship from the Coordination for the Improvement of Higher Education Personnel (CAPES) in Brazil.
  
 My research is broadly focused on financial econometrics. I’m currently interested in the following topics: macro-finance (backward-looking, forward-looking factors, and yield curves), dynamic factor models, and term structure models; forecast combinations, volatility forecasting, and term structure forecasting.
 
