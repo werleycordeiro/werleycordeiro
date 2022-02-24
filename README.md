@@ -33,12 +33,11 @@ You can see my cv (only in portuguese) on [http://lattes.cnpq.br/563542237827987
 [![Werley's github activity graph](https://activity-graph.herokuapp.com/graph?username=werleycordeiro&bg_color=000000&color=3ba333&line=00f56a&point=00ffbf&area=true&hide_border=true)](https://github.com/wreleycordeiro/github-readme-activity-graph)
 
 ### ⚙️ GitHub Analytics
-<p align="center">
-<a href="https://github.com/werleycordeiro">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=werleycordeiro&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=werleycordeiro&layout=compact&langs_count=8&theme=algolia"/>
+<a href="https://github.com/werleycordeiro/werleycordeiro">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=werleycordeiro&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Catalin's GitHub Stats" />
 </a>
-</p>
+<a href="https://github.com/werleycordeiro/werleycordeiro">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=werleycordeiro&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 
 
 [1]: http://lattes.cnpq.br/5635422378279874
