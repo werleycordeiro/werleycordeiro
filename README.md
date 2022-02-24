@@ -19,7 +19,7 @@ You can see my cv (only in portuguese) on [http://lattes.cnpq.br/563542237827987
 - LinkedIn: [linkedin.com/in/werley-cordeiro][3]
 
 ### 🛠 Languages and Tools
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)&nbsp;
+![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=R&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![Sublime Text](https://img.shields.io/badge/-Sublime_Text-05122A?style=flat&logo=sublime-text&logoColor=FF9800)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
