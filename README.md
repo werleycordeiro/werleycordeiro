@@ -1,5 +1,5 @@
 
-[![Hello 👋](https://raw.githubusercontent.com/werleycordeiro/werleycordeiro/main/Wcard.jpg)][4]
+
 ### Hi there, 👋
 
 Welcome to my GitHub! 
@@ -40,8 +40,6 @@ You can see my cv (only in portuguese) on [http://lattes.cnpq.br/563542237827987
 <a href="https://github.com/werleycordeiro/werleycordeiro">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=werleycordeiro&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Catalin's GitHub Stats" />
 </a>
-
-
 
 [1]: http://lattes.cnpq.br/5635422378279874
 [2]: https://werleycordeiro.github.io
