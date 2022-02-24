@@ -19,15 +19,15 @@ You can see my cv (only in portuguese) on [http://lattes.cnpq.br/563542237827987
 - LinkedIn: [linkedin.com/in/werley-cordeiro][3]
 
 ### 🛠 Languages and Tools
-![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=R&logoColor=white)&nbsp;
+![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=R&logoColor=FF9800)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![MATLAB](https://img.shields.io/badge/-MATLAB-05122A?style=flat&logo=Mathworks&logoColor=FF9800)\
 ![Sublime Text](https://img.shields.io/badge/-Sublime_Text-05122A?style=flat&logo=sublime-text&logoColor=FF9800)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
-![MATLAB](https://img.shields.io/badge/-MATLAB-05122A?style=flat&logo=Mathworks&logoColor=FF9800)\
 
 
 [![Werley's github activity graph](https://activity-graph.herokuapp.com/graph?username=werleycordeiro&bg_color=000000&color=3ba333&line=00f56a&point=00ffbf&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
