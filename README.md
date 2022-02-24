@@ -29,12 +29,9 @@ You can see my cv (only in portuguese) on [http://lattes.cnpq.br/563542237827987
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
 
-
-[![Werley's github activity graph](https://activity-graph.herokuapp.com/graph?username=werleycordeiro&bg_color=000000&color=3ba333&line=00f56a&point=00ffbf&area=true&hide_border=true)](https://github.com/wreleycordeiro/github-readme-activity-graph)
-
 ### ⚙️ GitHub Analytics
 <a href="https://github.com/werleycordeiro/werleycordeiro">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=werleycordeiro&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Catalin's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=werleycordeiro&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&theme=algolia" alt="Catalin's GitHub Stats" />
 </a>
 <a href="https://github.com/werleycordeiro/werleycordeiro">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=werleycordeiro&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
