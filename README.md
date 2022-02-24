@@ -13,10 +13,6 @@ My research is highly focused on financial econometrics. I’m currently interes
 I recently developed packages in R and Python to fitting and forecasting the term structure of interest rates. Lastly, I have an interest in machine learning applied to financial econometrics.
 
 You can see my cv (only in portuguese) on [http://lattes.cnpq.br/5635422378279874][1].
-## 📬 Get in touch
-
-- Web: [werleycordeiro.github.io][2]
-- LinkedIn: [linkedin.com/in/werley-cordeiro][3]
 
 ### 🛠 Languages and Tools
 ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=R&logoColor=white)&nbsp;
@@ -35,6 +31,11 @@ You can see my cv (only in portuguese) on [http://lattes.cnpq.br/563542237827987
 </a>
 <a href="https://github.com/werleycordeiro/werleycordeiro">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=werleycordeiro&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+
+ ## 📬 Get in touch
+
+- Web: [werleycordeiro.github.io][2]
+- LinkedIn: [linkedin.com/in/werley-cordeiro][3]
 
 
 [1]: http://lattes.cnpq.br/5635422378279874
