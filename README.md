@@ -6,13 +6,13 @@ Welcome to my GitHub!
 
 ### 👨🏻‍💻 About Me
 
-I hold a master’s degree from the Graduate Program in Economics (PPGEco-UFSC) - with a scholarship from the Coordination for the Improvement of Higher Education Personnel (CAPES) in Brazil.
+I hold a PhD in Economics from the Graduate Program in Economics (PPGEco-UFSC) - with a scholarship from the Coordination for the Improvement of Higher Education Personnel (CAPES) in Brazil.
  
 My research is highly focused on financial econometrics. I’m currently interested in the following topics: macro-finance (backward-looking and forward-looking macroeconomic factors), monetary policy, dynamic factor models, and term structure models; forecast combinations, volatility forecasting, and term structure forecasting.
 
-I recently developed packages in R and Python to fitting and forecasting the term structure of interest rates. Lastly, I have an interest in machine learning applied to financial econometrics.
+I developed packages in R and Python to fitting and forecasting the term structure of interest rates.
 
-You can see my cv (only in portuguese) on [http://lattes.cnpq.br/5635422378279874][1].
+You can see my cv on [https://werleycordeiro.github.io/CV_Werley_Cordeiro_202408.pdf][1].
 
 ### 🛠 Languages and Tools
 ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=R&logoColor=white)&nbsp;
