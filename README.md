@@ -12,7 +12,7 @@ My research is highly focused on financial econometrics. I’m currently interes
 
 I developed packages in R and Python to fitting and forecasting the term structure of interest rates.
 
-You can see my cv on [https://werleycordeiro.github.io/CV_Werley_Cordeiro_202408.pdf][1].
+You can see my cv [here][1].
 
 ### 🛠 Languages and Tools
 ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=R&logoColor=white)&nbsp;
@@ -38,7 +38,7 @@ You can see my cv on [https://werleycordeiro.github.io/CV_Werley_Cordeiro_202408
 - LinkedIn: [linkedin.com/in/werley-cordeiro][3]
 
 
-[1]: http://lattes.cnpq.br/5635422378279874
+[1]: [http://lattes.cnpq.br/5635422378279874](https://werleycordeiro.github.io/CV_Werley_Cordeiro_202408.pdf)
 [2]: https://werleycordeiro.github.io
 [3]: https://linkedin.com/in/werley-cordeiro
 [4]: https://github.com/werleycordeiro
