@@ -38,7 +38,7 @@ You can see my cv [here][1].
 - LinkedIn: [linkedin.com/in/werley-cordeiro][3]
 
 
-[1]: [http://lattes.cnpq.br/5635422378279874](https://werleycordeiro.github.io/CV_Werley_Cordeiro_202408.pdf)
+[1]: https://werleycordeiro.github.io/CV_Werley_Cordeiro_202408.pdf
 [2]: https://werleycordeiro.github.io
 [3]: https://linkedin.com/in/werley-cordeiro
 [4]: https://github.com/werleycordeiro
