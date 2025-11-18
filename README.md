@@ -6,7 +6,7 @@ Welcome to my GitHub!
 
 ### 👨🏻‍💻 About Me
 
-I hold a PhD in Economics from the Graduate Program in Economics (PPGEco-UFSC) - with a scholarship from the Coordination for the Improvement of Higher Education Personnel (CAPES) in Brazil.
+I am an Economist at Sicredi Asset Management since August 2024. Previously, I worked as a Data Analyst at Itaú Unibanco and completed a PhD internship in Data Science at Itaú Asset Management. I hold a PhD in Economics from the Federal University of Santa Catarina.
  
 My research is highly focused on financial econometrics. I’m currently interested in the following topics: macro-finance (backward-looking and forward-looking macroeconomic factors), monetary policy, dynamic factor models, and term structure models; forecast combinations, volatility forecasting, and term structure forecasting.
 
